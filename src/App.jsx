@@ -3,7 +3,7 @@ import "@fortawesome/fontawesome-free/css/all.css";
 import Header from "./Components/Header";
 import Home from "./Components/Home";
 import About from "./Components/About";
-import Services from "./Components/Services";
+import Services from "./Components/services";
 import Portfolio from "./Components/Portfolio";
 import Contact from "./Components/Contact";
 import Footer from "./Components/Footer";
